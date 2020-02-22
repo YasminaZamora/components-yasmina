@@ -18,8 +18,8 @@ export const defaultButton = () => <Button onClick={action('button-click')} >Cli
 
 export const mediumButton = () => <Button onClick={action('button-click')} size="medium">Click aquí</Button>
 
-export const underlineButton = () => (
+/*export const underlineButton = () => (
   <Button onClick={action('button-click')} size="medium" underline>
     Click aquí
   </Button>
-)
+)*/
